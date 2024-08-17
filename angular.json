@@ -58,6 +58,7 @@
               "extractLicenses": false,
               "sourceMap": true
             },
+            /* ng build --configuration dev-watch --verbose */
             "dev-watch": {
 
               "outputPath": {
